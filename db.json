@@ -29,6 +29,17 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 547,
+      "category": "boxers ratings",
+      "title": "Boxer",
+      "description": "There Boxers Bakhodir Jalolov rating",
+      "location": "Boxer De Boske",
+      "date": "august 22, 2021",
+      "time": "12:00",
+      "organizer": "Carelsen Boxers"
     }
+    
   ]
 }
